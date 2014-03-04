@@ -72,7 +72,7 @@ Reconnecting a Pebble <a name="reconnect"></a>
 1. Forget Pebble in iDevice
   1. Go to `Settings | Bluetooth`
   2. Under `Devices`, select `Pebble *` then `Forget this Device`
-  3. Do the same with `Pebble-LE`
+  3. Do the same with `Pebble-LE *`
   4. Turn off Bluetooth
   5. Turn on Bluetooth
 
